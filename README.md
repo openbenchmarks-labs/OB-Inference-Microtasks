@@ -1,4 +1,4 @@
-# OB-Inference
+# OB-Inference-Microtasks
 
 Open, independent LLM inference provider benchmark: serverless endpoints measured on end-to-end latency, p99 tail latency, streaming tokens per second and exact task accuracy. Every provider serves the same model (GLM 5.3 Flash) on the same paired micro-tasks, with the same request settings, at the same moment. Providers measured: Baseten, DeepInfra, Fireworks AI, Modal, Nebius, Novita AI, Parasail, Telnyx, Together AI and Z.AI.
 
@@ -74,8 +74,8 @@ cp .env.example .env
 ## Related benchmarks
 
 - [OB-Voice-Latency](https://github.com/openbenchmarks-labs/OB-Voice-Latency): Real PSTN voice-agent latency ([leaderboard](https://openbenchmarks.com/voice-agent-latency))
-- [OB-Document-Parsing-LegalQA](https://github.com/openbenchmarks-labs/OB-Document-Parsing-LegalQA): Document parsers on redlined legal contracts ([leaderboard](https://openbenchmarks.com/document-processing))
-- [OB-Code-Websearch](https://github.com/openbenchmarks-labs/OB-Code-Websearch): Web search APIs for coding agents ([leaderboard](https://openbenchmarks.com/web-search-for-coding-agents))
+- [OB-LegalQA-Document-Parsing](https://github.com/openbenchmarks-labs/OB-LegalQA-Document-Parsing): Document parsers on redlined legal contracts ([leaderboard](https://openbenchmarks.com/document-processing))
+- [OB-Code-WebSearch](https://github.com/openbenchmarks-labs/OB-Code-WebSearch): Web search APIs for coding agents ([leaderboard](https://openbenchmarks.com/web-search-for-coding-agents))
 - [All OpenBenchmarks leaderboards](https://openbenchmarks.com)
 
 ## License
