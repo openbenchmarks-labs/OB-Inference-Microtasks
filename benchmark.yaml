@@ -1,4 +1,4 @@
-name: OB-Inference
+name: OB-Inference-Microtasks
 order:
   serves: Teams choosing a serverless LLM inference provider for latency, throughput, and reliability.
   win: Better latency and throughput with full task completion under the same workload and budget.

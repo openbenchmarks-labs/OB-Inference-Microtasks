@@ -1,6 +1,6 @@
-# AGENTS.md — OB-Inference
+# AGENTS.md — OB-Inference (Microtasks)
 
-Quick navigation guide for coding agents working in `OB-Inference`.
+Quick navigation guide for coding agents working in `OB-Inference-Microtasks`.
 
 ## Structure (Zero Overlap)
 
