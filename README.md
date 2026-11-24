@@ -1,4 +1,4 @@
-# OB-Inference-Microtasks
+# OB-Inference (Microtasks)
 
 Open, independent LLM inference provider benchmark: serverless endpoints measured on end-to-end latency, p99 tail latency, streaming tokens per second and exact task accuracy. Every provider serves the same model (GLM 5.3 Flash) on the same paired micro-tasks, with the same request settings, at the same moment. Providers measured: Baseten, DeepInfra, Fireworks AI, Modal, Nebius, Novita AI, Parasail, Telnyx, Together AI and Z.AI.
 

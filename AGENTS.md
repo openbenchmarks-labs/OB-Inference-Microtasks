@@ -1,4 +1,4 @@
-# AGENTS.md — OB-Inference-Microtasks
+# AGENTS.md — OB-Inference (Microtasks)
 
 Quick navigation guide for coding agents working in `OB-Inference-Microtasks`.
 
